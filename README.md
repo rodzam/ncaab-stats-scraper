@@ -1,8 +1,7 @@
 NCAA Basketball Stats Scraper
 =============================
-Author: Rodrigo Zamith
+Author: Rodrigo Zamith  
 Version: 1.0
-By: Rodrigo Zamith
 
 
 Usage
