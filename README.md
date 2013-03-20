@@ -9,6 +9,7 @@ Usage
 First, edit the scraper settings in `scrapersettings.py`. In particular, be sure to change the two variables at the top, `academic_year` and `year_index`, using the information provided in that file. You can also set what kind of data you'd like saved, and where you'd like it saved.
 
 Then, execute either `ncaab_stats_scraper.sh` or `ncaab_stats_scraper.bat`, depending on your operating system. Alternatively, you can just execute the python files, preferably in this order:
+
 1. create_team_mappings.py
 2. create_schedule_mappings.py
 3. create_player_mappings_and_agg_stats.py
