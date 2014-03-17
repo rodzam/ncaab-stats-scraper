@@ -1,7 +1,7 @@
 NCAA Basketball Stats Scraper
 =============================
 Author: Rodrigo Zamith  
-Version: 1.0
+Version: 1.1
 
 
 Usage
@@ -23,4 +23,4 @@ This script requires Python, as well as the urllib2 and BeautifulSoup libraries.
 
 License
 --------
-This script is licensed under the Mozilla Public License Version 2.0 (see LICENSE file in root folder). TL;DR: feel free to use it commercially, modify it, and distribute it, provided you disclose both the source code and any moditations you make to it.
+This script is licensed under the Mozilla Public License Version 2.0 (see LICENSE file in root folder). TL;DR: feel free to use it commercially, modify it, and distribute it, provided you disclose both the source code and any modifications you make to it.
